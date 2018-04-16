@@ -172,19 +172,34 @@
 /*---------------*/
 
 
+/*
+figure.effect-oscarC1 {
 
-figure.effect-oscar {
+	background: -webkit-linear-gradient(45deg, #22682a 0%, #9b4a1b 40%, #3a342a 100%);
 
-	/*background: -webkit-linear-gradient(45deg, #22682a 0%, #9b4a1b 40%, #3a342a 100%);
+	background: linear-gradient(45deg, #22682a 0%,#9b4a1b 40%,#3a342a 100%);
 
-	background: linear-gradient(45deg, #22682a 0%,#9b4a1b 40%,#3a342a 100%);*/
-
-	background-color:#fb5353;
+	background-color:#b14d4b;
 
 }
+*/
 
+figure.red {
+	background-color:#b14d4b;
+}
 
-
+figure.blue {
+	background-color:#6b7c8f;
+}
+figure.green {
+	background-color:#839634;
+}
+figure.petrol {
+	background-color:#29727d;
+}
+figure.orange {
+	background-color:#b6733e;
+}
 figure.effect-oscar img {
 
 	opacity: 1;
