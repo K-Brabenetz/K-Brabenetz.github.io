@@ -209,6 +209,18 @@ figure.Flower_Power {
 figure.Locomatomatic {
 	background-color:#6591e2;
 }
+figure.Glühbirnen {
+	background-color:#6d402d;
+}
+figure.Toilette {
+	background-color:#515151;
+}
+figure.Badezimmer {
+	background-color:#331110;
+}
+figure.Pflanze {
+	background-color:#aab16e;
+}
 figure.effect-oscar img {
 
 	opacity: 1;
