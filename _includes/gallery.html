@@ -1,0 +1,22 @@
+<div ID="{{include.id}}" data-nanogallery2='{
+  "thumbnailHeight": 388,
+  "thumbnailWidth": "auto",
+  "thumbnailBorderVertical": 0,
+  "thumbnailBorderHorizontal": 0,
+  "thumbnailDisplayTransition": "slideUp",
+  "thumbnailDisplayTransitionDuration": 1000,
+  "thumbnailLabel": {
+    "position": "overImageOnBottom",
+    "display": false
+  },
+  "thumbnailHoverEffect2": "image_scale_1.00_1.05|image_brightness_100%_120%",
+  "thumbnailAlignment": "center",
+  "thumbnailGutterWidth": 5,
+  "thumbnailGutterHeight": 5,
+  "thumbnailOpenImage": true
+}'>
+
+{% for img-src in include.img-srcs %}
+  <a href="{{img-src}}.jpg" data-ngthumb="{{img-src}}-thumb.jpg"></a>
+{% endfor %}
+</div>

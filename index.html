@@ -1,238 +1,107 @@
-<!DOCTYPE HTML>
-<html>
+---
+layout: default
+modelling-gallery-srcs:
+  - /assets/images/projects-modelling/bathroom-1
+  - /assets/images/projects-modelling/bathroom-2
+  - /assets/images/projects-modelling/bathroom-3
+  - /assets/images/projects-modelling/bathroom-4
+  - /assets/images/projects-modelling/bathroom-5
+  - /assets/images/projects-modelling/ivy-1
+  - /assets/images/projects-modelling/light-1
+  - /assets/images/projects-modelling/light-2
+  - /assets/images/projects-modelling/shampoo-1
+  - /assets/images/projects-modelling/toilet-1
+  - /assets/images/projects-modelling/toilet-2
+  - /assets/images/projects-modelling/toilet-3
+---
 
-<head>
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-    <meta charset="utf-8">
-    <!-- Description, Keywords and Author -->
-    <meta name="description" content="">
-    <meta name="author" content="">
+<main role="main-home-wrapper" class="container">
+  <div class="row">
+    <section class="col-xs-12 col-sm-6 col-md-6 col-lg-6">
+      <article role="pge-title-content">
+        <header>
+          <h2 class="agency"><span>PORTFOLIO</span> KAROLINE BRABENETZ</h2>
+        </header>
+      </article>
+    </section>
 
-    <title>:: Karoline Brabenetz ::</title>
-    <link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="icons/favicon-16x16.png">
-    <link rel="manifest" href="icons/site.webmanifest">
-    <link rel="mask-icon" href="icons/safari-pinned-tab.svg" color="#5bbad5">
-    <meta name="msapplication-TileColor" content="#00aba9">
-    <meta name="theme-color" content="#ffffff">
+    <div class="clearfix"></div>
 
-    <!-- style -->
-    <link href="css/style.css" rel="stylesheet" type="text/css">
-    <!-- style -->
-    <!-- bootstrap -->
-    <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
-    <!-- responsive -->
-    <link href="css/responsive.css" rel="stylesheet" type="text/css">
-    <!-- font-awesome -->
-    <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
-    <!-- font-awesome -->
-    <link href="css/effects/set2.css" rel="stylesheet" type="text/css">
-    <link href="css/effects/normalize.css" rel="stylesheet" type="text/css">
-    <link href="css/effects/component.css" rel="stylesheet" type="text/css">
-    <link href="css/karostyle.css" rel="stylesheet" type="text/css">
+    <article role="pge-title-content">
+      <h2 class="agency">3D MODELLING</h2>
+    </article>
 
-</head>
+    <section class="col-xs-12 col-sm-12 col-md-12 col-lg-12 grid">
+      {% include gallery.html img-srcs=page.modelling-gallery-srcs id="modelling" %}
+    </section>
 
-<body>
-    <!-- header -->
-    <header role="header">
-        <div class="container">
-            <!-- logo -->
-            <h1>
-                <a href="index.html" title="Karoline Brabenetz">
-                    <img src="images/logo.png" title="Karoline Brabenetz" alt="Karoline Brabenetz" width="60" />
-                </a>
-            </h1>
-            <!-- logo -->
-            <!-- nav -->
-            <nav role="header-nav" class="navy">
-                <ul>
-                    <li class="nav-active">
-                        <a href="index.html" title="Work">Work</a>
-                    </li>
-                    <li>
-                        <a href="about.html" title="About">About</a>
-                    </li>
-                    <li>
-                        <a href="contact.html" title="Contact">Contact</a>
-                    </li>
-                </ul>
-            </nav>
-            <!-- nav -->
-        </div>
-    </header>
-    <!-- header -->
-    <!-- main -->
-    <main role="main-home-wrapper" class="container">
-        <div class="row">
-            <section class="col-xs-12 col-sm-6 col-md-6 col-lg-6 ">
-                <article role="pge-title-content">
-                    <header>
-                        <h2 class="agency">
-                            <span>PORTFOLIO</span> KAROLINE BRABENETZ </h2>
-                    </header>
-                </article>
-            </section>
+    <div class="clearfix"></div>
 
-            <section class="col-xs-12 col-sm-6 col-md-6 col-lg-6 grid">
-                <figure class="effect-oscar figure.effect oscar 3D-Renderings">
-                    <img src="images/home-images/image-9.jpg" alt="" class="img-responsive" />
-                    <figcaption>
-                        <h2>3D-Renderings</h2>
-                        <a href="3D-Renderings.html">View more</a>
-                    </figcaption>
-                </figure>
-            </section>
+    <article role="pge-title-content">
+      <h2 class="agency">OTHER PROJECTS</h2>
+    </article>
 
-            <div class="clearfix"></div>
+    <section class="col-xs-12 col-sm-6 col-md-6 col-lg-6 grid">
+      <ul class="grid-lod effect-2" id="grid">
+        <li>
+          {% include figure.html
+          image-src="/assets/images/projects-other/pic_hol_scrib/pic_hol_scrib-1-thumb.jpg"
+          link="showcases/pic-hol-scrib.html" heading="Pic-Hol-Scrib"
+          subheading="Produktentwicklung für Behindertenwerkstätte"
+          class="pic-hol-scrib" %}
+        </li>
+        <li>
+          {% include figure.html
+          image-src="/assets/images/projects-other/wandelbares_bett/wandelbares_bett-1-thumb.jpg"
+          link="showcases/wandelbares_bett.html" heading="Wandelbares Bett"
+          subheading="Möbeldesign für Kinder" class="wandelbares_bett" %}
+        </li>
+        <li>
+          {% include figure.html
+          image-src="/assets/images/projects-other/ruescher_lehrlinge/ruescher_lehrlinge-1-thumb.jpg"
+          link="showcases/ruescher_lehrlinge.html" heading="Rüscher.Lehrlinge"
+          subheading="Produktentwicklung für eine Tischlerei"
+          class="rüscher_lehrlinge" %}
+        </li>
+        <li>
+          {% include figure.html
+          image-src="/assets/images/projects-other/locomatomatic/locomatomatic-1-thumb.jpg"
+          link="showcases/locomatomatic.html" heading="Locomatomatic"
+          subheading="Concept/Design/Modeling/Music&Sound" class="locomatomatic"
+          %}
+        </li>
+      </ul>
+    </section>
 
-            <section class="col-xs-12 col-sm-6 col-md-6 col-lg-6 grid">
-                <ul class="grid-lod effect-2" id="grid">
-                    <li>
-                        <figure class="effect-oscar figure.effect oscar Pic-Hol-Scrib">
-                            <img src="images/home-images/image-2.jpg" alt="" class="img-responsive" />
-                            <figcaption>
-                                <h2>Pic-Hol-Scrib</h2>
-                                <p>Produktentwicklung für Behindertenwerkstätte</p>
-                                <a href="Pic-Hol-Scrib.html">View more</a>
-                            </figcaption>
-                        </figure>
-                    </li>
+    <section class="col-xs-12 col-sm-6 col-md-6 col-lg-6 grid">
+      <ul class="grid-lod effect-2" id="grid">
+        <li>
+          {% include figure.html
+          image-src="/assets/images/projects-other/clapstoolclap/clapstoolclap-1-thumb.jpg"
+          link="showcases/clapstoolclap.html" heading="CLAPstoolCLAP"
+          subheading="Möbeldesign" class="clapstoolclap" %}
+        </li>
+        <li>
+          {% include figure.html
+          image-src="/assets/images/projects-other/rutschpartie/rutschpartie-1-thumb.jpg"
+          link="showcases/rutschpartie.html" heading="Rutschpartie"
+          subheading="Küchenoptimierung" class="rutschpartie" %}
+        </li>
+        <li>
+          {% include figure.html
+          image-src="/assets/images/projects-other/veering_fire/veering_fire-1-thumb.jpg"
+          link="showcases/veering_fire.html" heading="Veering Fire"
+          subheading="Feuerstelle für draußen" class="veering_fire" %}
+        </li>
+        <li>
+          {% include figure.html
+          image-src="/assets/images/projects-other/flower_power/flower_power-2-thumb.jpg"
+          link="showcases/flower_power.html" heading="Flower Power"
+          subheading="Produktdesign" class="flower_power" %}
+        </li>
+      </ul>
+    </section>
 
-                    <li>
-                        <figure class="effect-oscar figure.effect oscar Wandelbares_Bett">
-                            <img src="images/home-images/image-4.jpg" alt="" class="img-responsive" />
-                            <figcaption>
-                                <h2>Wandelbares Bett</h2>
-                                <p>Möbeldesign für Kinder</p>
-                                <a href="Wandelbares Bett.html">View more</a>
-                            </figcaption>
-                        </figure>
-                    </li>
-
-                    <li>
-                        <figure class="effect-oscar figure.effect oscar Rüscher_Lehrlinge">
-                            <img src="images/home-images/image-6.jpg" alt="" class="img-responsive" />
-                            <figcaption>
-                                <h2>Rüscher.Lehrlinge</h2>
-                                <p>Produktentwicklung für eine Tischlerei</p>
-                                <a href="Rüscher Lehrlinge.html">View more</a>
-                            </figcaption>
-                        </figure>
-                    </li>
-
-                    <li>
-                        <figure class="effect-oscar figure.effect oscar Locomatomatic">
-                            <img src="images/home-images/image-8.jpg" alt="" class="img-responsive" />
-                            <figcaption>
-                                <h2>Locomatomatic</h2>
-                                <p>Concept/Design/Modeling/Music&Sound</p>
-                                <a href="Locomatomatic.html">View more</a>
-                            </figcaption>
-                        </figure>
-                    </li>
-                </ul>
-            </section>
-
-            <section class="col-xs-12 col-sm-6 col-md-6 col-lg-6 grid">
-                <ul class="grid-lod effect-2" id="grid">
-                    <li>
-                        <figure class="effect-oscar figure.effect oscar CLAPstoolCLAP">
-                            <img src="images/home-images/image-1.jpg" alt="" class="img-responsive" />
-                            <figcaption>
-                                <h2>CLAPstoolCLAP
-                                    <span></span>
-                                </h2>
-                                <p>Möbeldesign</p>
-                                <a href="CLAPstoolCLAP.html">View more</a>
-                            </figcaption>
-                        </figure>
-                    </li>
-
-                    <li>
-                        <figure class="effect-oscar figure.effect oscar Rutschpartie">
-                            <img src="images/home-images/image-3.jpg" alt="" class="img-responsive" />
-                            <figcaption>
-                                <h2>Rutschpartie
-                                    <span></span>
-                                </h2>
-                                <p>Küchenoptimierung</p>
-                                <a href="Rutschpartie.html">View more</a>
-                            </figcaption>
-                        </figure>
-                    </li>
-
-                    <li>
-                        <figure class="effect-oscar figure.effect oscar Veering_Fire">
-                            <img src="images/home-images/image-5.jpg" alt="" class="img-responsive" />
-                            <figcaption>
-                                <h2>Veering Fire</h2>
-                                <p>Feuerstelle für draußen</p>
-                                <a href="Veering Fire.html">View more</a>
-                            </figcaption>
-                        </figure>
-                    </li>
-
-                    <li>
-                        <figure class="effect-oscar figure.effect oscar Flower_Power">
-                            <img src="images/home-images/image-7.jpg" alt="" class="img-responsive" />
-                            <figcaption>
-                                <h2>Flower Power</h2>
-                                <p>Produktdesign</p>
-                                <a href="Flower Power.html">View more</a>
-                            </figcaption>
-                        </figure>
-                    </li>
-                </ul>
-            </section>
-            <div class="clearfix"></div>
-        </div>
-    </main>
-
-    <!-- main -->
-
-    <!-- footer -->
-    <footer role="footer">
-        <!-- logo -->
-        <h1>
-            <a href="index.html" title="Karoline Brabenetz">
-                <img src="images/logo.png" title="Karoline Brabenetz" alt="Karoline Brabenetz" width="60" />
-            </a>
-        </h1>
-        <!-- logo -->
-
-        <!-- nav -->
-        <nav role="footer-nav">
-            <ul>
-                <li>
-                    <a href="index.html" title="Work">Work</a>
-                </li>
-                <li>
-                    <a href="about.html" title="About">About</a>
-                </li>
-                <li>
-                    <a href="contact.html" title="Contact">Contact</a>
-                </li>
-            </ul>
-        </nav>
-    </footer>
-    <!-- footer -->
-
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="js/jquery.min.js" type="text/javascript"></script>
-    <!-- custom -->
-    <script src="js/nav.js" type="text/javascript"></script>
-    <script src="js/custom.js" type="text/javascript"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="js/bootstrap.min.js" type="text/javascript"></script>
-    <script src="js/effects/masonry.pkgd.min.js" type="text/javascript"></script>
-    <script src="js/effects/imagesloaded.js" type="text/javascript"></script>
-    <script src="js/effects/classie.js" type="text/javascript"></script>
-    <script src="js/effects/AnimOnScroll.js" type="text/javascript"></script>
-    <script src="js/effects/modernizr.custom.js"></script>
-    <!-- jquery.countdown -->
-    <script src="js/html5shiv.js" type="text/javascript"></script>
-</body>
-
-</html>
+    <div class="clearfix"></div>
+  </div>
+</main>

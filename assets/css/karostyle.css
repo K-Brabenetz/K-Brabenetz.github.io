@@ -1,0 +1,7 @@
+hr {
+  border-color: rgb(139, 139, 139);
+}
+
+.img-figure {
+  filter: brightness(0.7);
+}
