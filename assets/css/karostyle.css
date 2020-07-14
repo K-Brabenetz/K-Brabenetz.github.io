@@ -5,3 +5,18 @@ hr {
 .img-figure {
   filter: brightness(0.7);
 }
+
+figure.effect-oscar figcaption {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  flex-flow: wrap;
+}
+
+figure.effect-oscar figcaption h2 {
+  transform: scale(1);
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
