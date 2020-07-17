@@ -1,20 +1,5 @@
 ---
 layout: default
-modelling-gallery-srcs:
-  - /assets/images/projects-modelling/bathroom-1
-  - /assets/images/projects-modelling/bathroom-2
-  - /assets/images/projects-modelling/bathroom-3
-  - /assets/images/projects-modelling/bathroom-4
-  - /assets/images/projects-modelling/bathroom-5
-  - /assets/images/projects-modelling/shampoo-1
-  - /assets/images/projects-modelling/ivy-1
-  - /assets/images/projects-modelling/vase-1
-  - /assets/images/projects-modelling/light-1
-  - /assets/images/projects-modelling/light-2
-  - /assets/images/projects-modelling/light-3
-  - /assets/images/projects-modelling/toilet-1
-  - /assets/images/projects-modelling/toilet-2
-  - /assets/images/projects-modelling/toilet-3
 ---
 
 <main role="main-home-wrapper" class="container">
@@ -34,7 +19,7 @@ modelling-gallery-srcs:
     </article>
 
     <section class="col-xs-12 col-sm-12 col-md-12 col-lg-12 grid">
-      {% include gallery.html img-srcs=page.modelling-gallery-srcs id="modelling" %}
+      {% include gallery.html img-srcs=site.data.modelling_gallery.img-srcs id="modelling" %}
     </section>
 
     <div class="clearfix"></div>
