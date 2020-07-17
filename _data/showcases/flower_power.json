@@ -1,0 +1,26 @@
+{
+  "heading": "Flower Power",
+  "subheading": "Produktdesign",
+  "color": "#1d3f15",
+  "url": "showcases/flower_power.html",
+  "description-english": {
+    "paragraphs": [
+      "Together with my teammate <b>Alexandra Auer</b>, I designed a flower box for balconies. The main tasks of this project were engaging with the material carbon fiber reinforced plastic (CFRP) and creating a product for which this material is especially useful.",
+      "Our result was this flower box, which can easily be hung over a balcony balustrade. Due to its quality of being weather resistant, CFRP with epoxy resin is a good choice for such a product."
+    ]
+  },
+  "description-german": {
+    "paragraphs": [
+      "Gemeinsam mit der Kollegin <b>Alexandra Auer</b> habe ich eine Blumenkiste für den Balkon entworfen. Die Haupaufgabenstellungen bei diesem Projekt waren, sich mit dem Material Carbonfaserverstärkter Kunststoff (CFK) auseinanderzusetzen und ein Produkt zu entwerfen, bei dem die Anfertigung aus diesem Material sinnvoll wäre.",
+      "Entstanden ist dabei eine Blumenkiste, die sich einfach über ein Balkongelände hängen lässt. Aufgrund des Materialanspruchs der Witterungsbeständigkeit ist CFK mit Epoxidharz dafür eine gute Wahl."
+    ]
+  },
+  "programs": "Rhinoceros 5, V-Ray, Photoshop",
+  "main-thumb-src": "/assets/images/projects-other/flower_power/flower_power-2-thumb.jpg",
+  "img-srcs": [
+    "/assets/images/projects-other/flower_power/flower_power-1",
+    "/assets/images/projects-other/flower_power/flower_power-2",
+    "/assets/images/projects-other/flower_power/flower_power-3",
+    "/assets/images/projects-other/flower_power/flower_power-4"
+  ]
+}
