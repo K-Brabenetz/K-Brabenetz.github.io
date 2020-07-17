@@ -17,10 +17,12 @@
           {% for description in include.descriptions-german %}
           <p>{{description}}</p>
           {% endfor %}
-          <hr/>
-          <strong>Software</strong>
-          <br />
-          <p>{{include.programs}}</p>
+          {% if(include.programs) %}
+            <hr/>
+            <strong>Software</strong>
+            <br />
+            <p>{{include.programs}}</p>
+          {% endif %}
         </section>
       </div>
     </div>
