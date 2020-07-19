@@ -1,12 +1,12 @@
-<figure class="effect-oscar figure.effect oscar {{ include.class }}">
+<figure class="effect-oscar figure.effect oscar" style="background-color:{{ include.data.color }}">
   <img
-    src="{{ include.image-src }}"
+    src="{{ include.data.main-thumb-src }}"
     alt=""
     class="img-responsive img-figure"
   />
   <figcaption>
-    <h2>{{ include.heading }}</h2>
-    <p>{{ include.subheading }}</p>
-    <a href="{{ include.link }}">View more</a>
+    <h2>{{ include.data.heading }}</h2>
+    <p>{{ include.data.subheading }}</p>
+    <a href="{{ include.data.url }}">View more</a>
   </figcaption>
 </figure>
