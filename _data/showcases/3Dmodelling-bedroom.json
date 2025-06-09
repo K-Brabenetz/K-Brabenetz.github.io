@@ -1,8 +1,19 @@
 {
-/*  "heading": "CLAPstoolCLAP",
-  "subheading": "Möbeldesign",*/
+  "heading": "BEDROOM",
+  "subheading": "Möbeldesign",
   "color": "##ffffff",
   "url": "showcases/bedroom.html",
+  "description-english": {
+    "paragraphs": [
+      "test"
+    ]
+  },
+  "description-german": {
+    "paragraphs": [
+      "test"
+    ]
+  },
+  "programs": "Rhinoceros 5, V-Ray",
   "main-thumb-src": "/assets/images/projects-3Dmodelling/bedroom/bedroom-1_1-thumb",
   "img-srcs": [
     "/assets/images/projects-3Dmodelling/bedroom/bedroom-1",
