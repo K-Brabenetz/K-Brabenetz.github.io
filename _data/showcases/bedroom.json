@@ -1,18 +1,7 @@
 {
   "heading": "BEDROOM",
-  "subheading": "test",
-  "color": "#472214",
+  "color": "#ffffff",
   "url": "showcases/bedroom.html",
-  "description-english": {
-    "paragraphs": [
-      "test"
-    ]
-  },
-  "description-german": {
-    "paragraphs": [
-      "test"
-    ]
-  },
   "main-thumb-src": "/assets/images/projects-3Dmodelling/bedroom/bedroom-1_1-thumb.jpg",
   "img-srcs": [
     "/assets/images/projects-3Dmodelling/bedroom/bedroom-1",
