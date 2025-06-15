@@ -1,11 +1,16 @@
 {
   "heading": "LIVING ROOM",
+  "hide-description": true,
   "color": "#696969",
   "url": "showcases/living_room.html",
   "main-thumb-src": "/assets/images/projects-3Dmodelling/living_room/living-room-2-thumb.jpg",
   "img-srcs": [
     "/assets/images/projects-3Dmodelling/living_room/living-room-2",
     "/assets/images/projects-3Dmodelling/living_room/living-room-2_1",
-    "/assets/images/projects-3Dmodelling/living_room/living-room-2_3"
+    "/assets/images/projects-3Dmodelling/living_room/living-room-2_3",
+    "/assets/images/projects-3Dmodelling/living_room/living-room-3",
+    "/assets/images/projects-3Dmodelling/living_room/apartment-1",
+    "/assets/images/projects-3Dmodelling/living_room/apartment-2",
+    "/assets/images/projects-3Dmodelling/living_room/apartment-3"
   ]
 }
