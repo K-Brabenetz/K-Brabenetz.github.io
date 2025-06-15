@@ -8,23 +8,31 @@
       </div>
       <div class="col-xs-12 col-sm-12 col-md-8">
         <section>
-          <b>Description</b>
-          {% for descriptionParagraph in include.data.description-english.paragraphs %}
-            <p>{{descriptionParagraph}}</p>
-          {% endfor %}
-          <hr/>
-          <b>Beschreibung</b>
-          {% for descriptionParagraph in include.data.description-german.paragraphs %}
-            <p>{{descriptionParagraph}}</p>
-          {% endfor %}
-          {% if(include.data.programs) %}
+
+          {% unless include.data.hide-description %}
+            <b>Description</b>
+            {% for descriptionParagraph in include.data.description-english.paragraphs %}
+              <p>{{descriptionParagraph}}</p>
+            {% endfor %}
             <hr/>
-            <strong>Software</strong>
-            <br />
-            <p>{{include.data.programs}}</p>
-          {% endif %}
+            <b>Beschreibung</b>
+            {% for descriptionParagraph in include.data.description-german.paragraphs %}
+              <p>{{descriptionParagraph}}</p>
+            {% endfor %}
+          {% endunless %}
+
+          {% unless include.data.hide-programs %}
+            {% if include.data.programs %}
+              <hr/>
+              <strong>Software</strong>
+              <br />
+              <p>{{include.data.programs}}</p>
+            {% endif %}
+          {% endunless %}
+
         </section>
       </div>
+
     </div>
     <div class="clearfix"></div>
     <div class="work-images grid">
