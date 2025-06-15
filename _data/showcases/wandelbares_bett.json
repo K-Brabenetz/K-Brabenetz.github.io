@@ -1,7 +1,7 @@
 {
   "heading": "Wandelbares Bett",
   "subheading": "Möbeldesign für Kinder",
-  "color": "#839634",
+  "color": "#696969",
   "url": "showcases/wandelbares_bett.html",
   "description-english": {
     "paragraphs": [
@@ -15,13 +15,14 @@
       "Das Bett besteht aus einem Hauptteil, worauf Lattenrost und Matratze ihren Platz finden und außerdem mehreren Einzelteilen. Durch das Stapeln dieser Teile kann die gewünschte Höhe erreicht werden. Ein Teil misst in der Länge 200cm und in der Breite 50cm. Das Bett besteht hauptsächlich aus Holz, obwohl die einzelnen Bettrahmenstücke an der langen Innenseite eine Filzabdeckung haben. Durch Stapeln dieser Teile bildet sich unter dem Hochbett eine gemütliche Höhle mit einer weichen Wand zum Spielen. Durch die Einkerbung an einem Ende ergibt sich beim Stapeln außerdem eine Leiter, die zur Liegefläche führt."
     ]
   },
-  "programs": "Rhinoceros 5, V-Ray, Medibang",
-  "main-thumb-src": "/assets/images/projects-other/wandelbares_bett/wandelbares_bett-1-thumb.jpg",
+  "programs": "Blender",
+  "main-thumb-src": "/assets/images/projects-other/wandelbares_bett/Bed5-thumb.jpg",
   "img-srcs": [
-    "/assets/images/projects-other/wandelbares_bett/wandelbares_bett-1",
-    "/assets/images/projects-other/wandelbares_bett/wandelbares_bett-2",
-    "/assets/images/projects-other/wandelbares_bett/wandelbares_bett-3",
-    "/assets/images/projects-other/wandelbares_bett/wandelbares_bett-4",
-    "/assets/images/projects-other/wandelbares_bett/wandelbares_bett-5"
+    "/assets/images/projects-other/wandelbares_bett/Bed5",
+    "/assets/images/projects-other/wandelbares_bett/Bed6",
+    "/assets/images/projects-other/wandelbares_bett/Bed_zerlegt",
+    "/assets/images/projects-other/wandelbares_bett/wb_room-1",
+    "/assets/images/projects-other/wandelbares_bett/wb_room-2",
+    "/assets/images/projects-other/wandelbares_bett/wb_room-3"
   ]
 }
