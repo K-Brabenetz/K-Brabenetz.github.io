@@ -1,0 +1,13 @@
+{
+  "heading": "OBJECT STUDY",
+  "hide-description": true,
+  "color": "#696969",
+  "url": "showcases/object_study.html",
+  "main-thumb-src": "/assets/images/projects-3Dmodelling/object_study/light-3-thumb2.jpg",
+  "img-srcs": [
+    "/assets/images/projects-3Dmodelling/object_study/ivy-1",
+    "/assets/images/projects-3Dmodelling/object_study/light-1",
+    "/assets/images/projects-3Dmodelling/object_study/light-2",
+    "/assets/images/projects-3Dmodelling/object_study/light-3"
+  ]
+}
