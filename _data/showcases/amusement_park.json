@@ -1,0 +1,27 @@
+{
+  "heading": "Amusement Park Kiosk",
+  "subheading": "Screen Design für einen Freizeitpark-Kiosk",
+  "color": "#6b7c8f",
+  "url": "showcases/amusement_park.html",
+  "description-english": {
+    "paragraphs": [
+      "text"
+    ]
+  },
+  "description-german": {
+    "paragraphs": [
+      "text"
+    ]
+  },
+  "programs": "Figma, Blender",
+  "main-thumb-src": "/assets/images/amusement/amusement_park-thumb.jpg",
+  "img-srcs": [
+    "/assets/images/amusement/amusement_park",
+    "/assets/images/amusement/amusement_park_2",
+    "/assets/images/amusement/amusement_park_3",
+    "/assets/images/amusement/amusement_park_4",
+    "/assets/images/amusement/amusement_park_5",
+    "/assets/images/amusement/amusement_park_6",
+    "/assets/images/amusement/amusement_park_7"
+  ]
+}
