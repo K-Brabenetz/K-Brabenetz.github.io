@@ -5,19 +5,19 @@
   "url": "showcases/pentram.html",
   "description-english": {
     "paragraphs": [
-      "On the trail of the golden ratio, the divine proportion, or the playful spiral - the further development of the centuries-old and internationally beloved game Tangram, by mathematician Emil Simeonov. The core idea was clear, but the implementation was not. Through collaboration, the Pentram was created, based on a regular pentagon. Creative silhouette puzzles of figures such as animals or flowers offer exciting challenges - all packed into a handy pentagon that fits in almost any pocket."
+      "On the trail of the golden ratio, the divine proportion, or the playful spiral - the further development of the centuries-old and internationally beloved game Tangram, by mathematician <b>Emil Simeonov</b>. The core idea was clear, but the implementation was not. Through collaboration, the Pentram was created, based on a regular pentagon. Creative silhouette puzzles of figures such as animals or flowers offer exciting challenges - all packed into a handy pentagon that fits in almost any pocket."
     ]
   },
   "description-german": {
     "paragraphs": [
-      "Auf der Spur des goldenen Schnitts, der göttlichen Proportion oder dem lustigen Schneckenhaus - die Weiterentwicklung des Jahrhunderte alten und international beliebten Spiels Tangram, durch Mathamatiker <b>Emil Simeonov<b>. Die Grundidee war klar, die Umsetzung noch nicht. In Zusammenarbeit entstand das <b>Pentram<b>, das auf einem regelmäßigen Fünfeck basiert. Kreative Schattenbilder von Figuren wie Tieren oder Blumen sorgen für spannendes Rätsellösen - verpackt in einem handlichen Fünfeck, das fast in jeder Tasche einen Platz findet."
+      "Auf der Spur des goldenen Schnitts, der göttlichen Proportion oder dem lustigen Schneckenhaus - die Weiterentwicklung des Jahrhunderte alten und international beliebten Spiels Tangram, durch Mathamatiker <b>Emil Simeonov</b>. Die Grundidee war klar, die Umsetzung noch nicht. In Zusammenarbeit entstand das <b>Pentram<b>, das auf einem regelmäßigen Fünfeck basiert. Kreative Schattenbilder von Figuren wie Tieren oder Blumen sorgen für spannendes Rätsellösen - verpackt in einem handlichen Fünfeck, das fast in jeder Tasche einen Platz findet."
     ]
   },
   "programs": "Blender, InDesign",
-  "main-thumb-src": "/assets/images/projects-product design/1-thumb.jpg",
+  "main-thumb-src": "/assets/images/projects-product design/pentram/1-thumb.jpg",
   "img-srcs": [
-    "/assets/images/projects-product design/1",
-    "/assets/images/projects-product design/4",
-    "/assets/images/projects-product design/7"
+    "/assets/images/projects-product design/pentram/1",
+    "/assets/images/projects-product design/pentram/4",
+    "/assets/images/projects-product design/pentram/7"
   ]
 }
