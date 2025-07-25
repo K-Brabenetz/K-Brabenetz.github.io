@@ -1,7 +1,7 @@
 {
   "heading": "Pentram",
   "subheading": "Educational game",
-  "color": "#6b7c8f",
+  "color": "#696969",
   "url": "showcases/pentram.html",
   "description-english": {
     "paragraphs": [
@@ -10,7 +10,7 @@
   },
   "description-german": {
     "paragraphs": [
-      "Auf der Spur des goldenen Schnitts, der göttlichen Proportion oder dem lustigen Schneckenhaus - die Weiterentwicklung des Jahrhunderte alten und international beliebten Spiels Tangram, durch Mathamatiker <b>Emil Simeonov</b>. Die Grundidee war klar, die Umsetzung noch nicht. In Zusammenarbeit entstand das <b>Pentram<b>, das auf einem regelmäßigen Fünfeck basiert. Kreative Schattenbilder von Figuren wie Tieren oder Blumen sorgen für spannendes Rätsellösen - verpackt in einem handlichen Fünfeck, das fast in jeder Tasche einen Platz findet."
+      "Auf der Spur des goldenen Schnitts, der göttlichen Proportion oder dem lustigen Schneckenhaus - die Weiterentwicklung des Jahrhunderte alten und international beliebten Spiels Tangram, durch Mathamatiker <b>Emil Simeonov</b>. Die Grundidee war klar, die Umsetzung noch nicht. In Zusammenarbeit entstand das Pentram, das auf einem regelmäßigen Fünfeck basiert. Kreative Schattenbilder von Figuren wie Tieren oder Blumen sorgen für spannendes Rätsellösen - verpackt in einem handlichen Fünfeck, das fast in jeder Tasche einen Platz findet."
     ]
   },
   "programs": "Blender, InDesign",
@@ -18,6 +18,7 @@
   "img-srcs": [
     "/assets/images/projects-product design/pentram/1",
     "/assets/images/projects-product design/pentram/4",
-    "/assets/images/projects-product design/pentram/7"
+    "/assets/images/projects-product design/pentram/7",
+    "/assets/images/projects-product design/pentram/8"
   ]
 }
