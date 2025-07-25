@@ -1,0 +1,23 @@
+{
+  "heading": "Pentram",
+  "subheading": "Educational game for children",
+  "color": "#6b7c8f",
+  "url": "showcases/pentram.html",
+  "description-english": {
+    "paragraphs": [
+      "text"
+    ]
+  },
+  "description-german": {
+    "paragraphs": [
+      "text"
+    ]
+  },
+  "programs": "Blender, InDesign",
+  "main-thumb-src": "/assets/images/projects-product design/1-thumb.jpg",
+  "img-srcs": [
+    "/assets/images/projects-product design/1",
+    "/assets/images/projects-product design/4",
+    "/assets/images/projects-product design/7"
+  ]
+}

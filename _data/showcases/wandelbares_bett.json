@@ -5,16 +5,19 @@
   "url": "showcases/wandelbares_bett.html",
   "description-english": {
     "paragraphs": [
-      "This bed grows with the child (or rather, shrinks with age). Due to a multi-part setup, the bed can be both: a loft bed and a low bed. The design of the bed is simple and timeless so that it can be used for both a child and an adult.",
-      "The bed consists of one main bed area and several separate bedframe pieces that can be stacked one on the other to create the desired height. One bedframe piece measures 200 cm in length and 50 cm in width. The bed is mainly made of wood, though the separate bedframe pieces all have a felt covering along the side that makes up the inner part of the bedframe, creating a cozy cave with a soft wall for playing under the loft bed. Notches on the bedframe pieces naturally create a ladder when stacked."
+      "The child grows – the bed shrinks.",
+      "Developed as part of a university project for the company GUUT-das Bett, this adaptable bed adjusts to the various stages of a child's development up to young adulthood. It transforms from a cozy loft bed with a play and learning nook into a timeless youth bed that, refined with an LED strip, can hold its own even in the coolest teenager’s room.",
+      "The stacked long individual parts form a ladder on the narrow side, allowing access to the sleeping area. Felt on the inside creates a cozy little corner underneath the bed, inviting children to play or study. Depending on the height of the sleeping surface, safety rails can be attached using metal connectors."
     ]
   },
   "description-german": {
     "paragraphs": [
-      "Bei diesem Entwurf handelt es sich um ein Bett, das mit dem Kind mitwachsen soll (oder sich mit zunehmendem Alter verkleinert). Durch ein Stecksystem kann sich das Bett sowohl in ein Hochbett als auch ein Einzelbett verwandeln. Das Bett hat ein zeitloses und schlichtes Design, wodurch es sowohl für ein Kind als auch einen Erwachsenen verwendet werden kann.",
-      "Das Bett besteht aus einem Hauptteil, worauf Lattenrost und Matratze ihren Platz finden und außerdem mehreren Einzelteilen. Durch das Stapeln dieser Teile kann die gewünschte Höhe erreicht werden. Ein Teil misst in der Länge 200cm und in der Breite 50cm. Das Bett besteht hauptsächlich aus Holz, obwohl die einzelnen Bettrahmenstücke an der langen Innenseite eine Filzabdeckung haben. Durch Stapeln dieser Teile bildet sich unter dem Hochbett eine gemütliche Höhle mit einer weichen Wand zum Spielen. Durch die Einkerbung an einem Ende ergibt sich beim Stapeln außerdem eine Leiter, die zur Liegefläche führt."
+      "Das Kind wächst - das Bett schrumpft.",
+      "Das im Zuge eines Uni-Projektes für die Firma GUUT-das Bett entstandene Wandelbare Bett passt sich an verschiedene Entwicklungsstufen eines Kindes bis zum jungen Erwachsenenalter an. Es verwandelt sich von einem gemütlichen Hochbett mit Spiel- & Lernhöhle in ein zeitloses Jugendbett, das mit einer LED-Leiste verfeinert sogar im coolsten Jugendzimmer standhalten kann.",
+      "Aus den gestapelten langen Einzelteilen entsteht auf der schmalen Seite eine Leiter, die den Zugang zur Liegefläche ermöglicht. Der Filz an der Innenseite erschafft eine gemütliche Kuchselecke unter dem Bett, die zum Spielen oder Lernen einlädt. Je nach Höhe der Liegefläche können mittels Metallverbindern Absturzsicherungen angebracht werden."
     ]
   },
+
   "programs": "Blender",
   "main-thumb-src": "/assets/images/projects-other/wandelbares_bett/Bed5-thumb.jpg",
   "img-srcs": [

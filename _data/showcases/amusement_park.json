@@ -1,6 +1,6 @@
 {
   "heading": "Amusement Park Kiosk",
-  "subheading": "Screen Design für einen Freizeitpark-Kiosk",
+  "subheading": "Screen Design",
   "color": "#6b7c8f",
   "url": "showcases/amusement_park.html",
   "description-english": {
@@ -21,7 +21,6 @@
     "/assets/images/amusement/amusement_park_3",
     "/assets/images/amusement/amusement_park_4",
     "/assets/images/amusement/amusement_park_5",
-    "/assets/images/amusement/amusement_park_6",
-    "/assets/images/amusement/amusement_park_7"
+    "/assets/images/amusement/amusement_park_6"
   ]
 }
