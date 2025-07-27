@@ -5,12 +5,13 @@
   "url": "showcases/amusement_park.html",
   "description-english": {
     "paragraphs": [
-      "text"
+      "A day at the amusement park - perfectly planned. Where to begin when you want to experience everything? This interactive planning kiosk helps visitors organize their day. A user-friendly interface, intuitive setup of multiple user profiles, a complete overview of all attractions, and flexible route planning - even for groups with different interests. Everything is flexible, everything is customizable - so the day can be used to its fullest."
     ]
   },
   "description-german": {
     "paragraphs": [
-      "text"
+      "Ein Tag im Freizeitpark - optimal geplant. Wo anfangen, wenn man am liebsten alles erleben möchte? Dieser interaktive Planungskiosk unterstützt Besucher:innen bei der Strukturierung des Tages. Benutzerfreundliche Oberfläche, intuitive Erstellung mehrerer Nutzerprofile, Übersicht über alle Attraktionen und flexible Planung einer oder mehrerer Routen - auch für Gruppen mit verschiedenen Interessen. Alles flexibel, alles anpassbar - so kann der Tag optimal genutzt werden.",
+      "<a href=\"https://www.figma.com/proto/c6lFtDctcTKV6zFck9Ht6U/HCI-HiFi-Prototype?node-id=82-1510&p=f&t=v7USqlNJXREtXAM7-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=72%3A439\">Figma Prototyp</a>"
     ]
   },
   "programs": "Figma, Blender",
